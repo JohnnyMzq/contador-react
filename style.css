@@ -1,19 +1,17 @@
-body{
-    margin: 0;
-    padding: 0;
-    background-color: #333;
-    color: snow;
-    text-align: center;
+body {
+  background-color: #333;
+  color: snow;
+  text-align: center;
 }
 
-.menor{
-    color: tomato;
+.positivo {
+  color: lime;
 }
 
-.mayor{
-    color: limegreen;
+.negativo {
+  color: tomato;
 }
 
-button{
-    margin: 0px 0.5rem;
+button {
+  margin: 0 3px;
 }
